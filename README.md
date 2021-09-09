@@ -3,7 +3,7 @@ El script esta programado en python y convertido a .exe
 
 - Inspector de Números de DNI de personas que vivan en Perú, solo +18
 
-![sh](https://github.com/Monkey-hk4/dni-checker/blob/main/fotos/checker_dni_img.png)
+![sh](https://github.com/Monkey-hk4/dni-checker/blob/main/foto_prueba.png)
 
 # [ Instalacion Linux ]
 ```
