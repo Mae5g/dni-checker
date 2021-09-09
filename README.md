@@ -1,4 +1,6 @@
 # [ CHECKER DNI  ]
+El script esta programado en python y convertido a .exe
+
 - Inspector de Números de DNI de personas que vivan en Perú, solo +18
 
 # [ Instalacion Linux ]
