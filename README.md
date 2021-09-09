@@ -5,7 +5,7 @@ El script esta programado en python y convertido a .exe
 
 ![sh](https://github.com/Monkey-hk4/dni-checker/blob/main/foto_prueba.png)
 
-# [ Instalacion Linux ]
+# [ Instalación Linux ]
 ```
 $ git clone https://github.com/Monkey-hk4/dni-checker
 $ cd dni-checker
