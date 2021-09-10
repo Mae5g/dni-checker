@@ -9,6 +9,8 @@ El script esta programado en python y convertido a .exe
 ```
 $ git clone https://github.com/Monkey-hk4/dni-checker
 $ cd dni-checker
+$ sudo su
+$ chmod 777 reniec
 $ ./reniec
 ```
 
