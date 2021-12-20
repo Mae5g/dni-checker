@@ -25,5 +25,3 @@ Ejecutar el 'dni_checker.exe'
 
 ### AUTOR
 - Instagram : [d4vid.0day](https://www.instagram.com/d4vid.0day).
-- Paypal : [donar](https://www.paypal.com/paypalme/davidhk4).
-
